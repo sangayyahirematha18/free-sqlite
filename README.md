@@ -26,3 +26,6 @@ Automatically complete SQL keywords, table names, and fields
 ### Favorite
 Quickly execute or view your frequently used SQL
 ![favorite](https://github.com/fjb040911/free-sqlite/blob/main/doc/favoites.gif?raw=true)
+
+### Export
+![export](https://github.com/fjb040911/free-sqlite/blob/main/doc/expot.gif?raw=true)

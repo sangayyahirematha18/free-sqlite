@@ -1,17 +1,22 @@
 # Free sqlite
 
-Free SQLite is an open-source and free SQLite tool for VSCode.
-![logo](https://github.com/fjb040911/free-sqlite/blob/main/assets/logo.png?raw=true#pic_center =100X100)
+VSCode extension to explore and query SQLite databases.
+open-source and free.
 
 ## Features
  - Open any SQLite file - Simply click on .sqlite or .db files to open them instantly
  - Table Explorer - Browse all tables in your database from an integrated sidebar
  - Data Visualization - View table data in a clean, modern interface that adapts to your VS Code theme
- - SQL statement editor - The SQL statement editor has complete keyword and table field prompts
+ - SQL statement editor - SQL statement editor, Automatically complete SQL keywords, table names, and fields
  - Query result export - The query results can be exported as Excel or CSV
  - Favorites - Collect some of your most commonly used SQL statements
 
 ## How to use
+
+### Install
+VSCode extension install!
+[Install free sqlite](https://marketplace.visualstudio.com/items?itemName=free-sqlite.free-sqlite)
+
 ### Open database
 Now! Browse all tables in your database in the right panel
 ![open](https://github.com/fjb040911/free-sqlite/blob/main/doc/open.gif?raw=true)

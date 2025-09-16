@@ -1,4 +1,4 @@
-# free-sqlite README
+# Free sqlite
 
 Free SQLite is an open-source and free SQLite tool for VSCode.
 

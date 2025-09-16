@@ -3,10 +3,11 @@
   "displayName": "free sqlite",
   "description": "Free SQLite for VSCode",
   "icon": "assets/logo.png",
-  "version": "1.0.0",
+  "version": "0.6.16",
   "engines": {
     "vscode": "^1.91.0"
   },
+  "publisher": "free-sqlite",
   "categories": [
     "Databases",
     "Notebooks",
@@ -16,6 +17,20 @@
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
+    "languages": [
+      {
+        "id": "sql",
+        "extensions": [
+          ".sqlite",
+          ".sqlite3",
+          ".db",
+          ".db3",
+          ".sdb",
+          ".s3db",
+          ".gpkg"
+        ]
+      }
+    ],
     "customEditors": [
       {
         "viewType": "free-sqlite.view",

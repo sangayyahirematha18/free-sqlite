@@ -15,10 +15,14 @@ open-source and free.
 
 ### Install
 VSCode extension install!
+
+
 [Install free sqlite](https://marketplace.visualstudio.com/items?itemName=free-sqlite.free-sqlite)
 
 ### Open database
 Now! Browse all tables in your database in the right panel
+
+
 ![open](https://github.com/fjb040911/free-sqlite/blob/main/doc/open.gif?raw=true)
 
 ### Multiple files
@@ -26,10 +30,23 @@ Now! Browse all tables in your database in the right panel
 
 ### SQL Editor
 Automatically complete SQL keywords, table names, and fields
+
+
 ![editor](https://github.com/fjb040911/free-sqlite/blob/main/doc/select.gif?raw=true)
+
+### SQL Query error output
+If there is an error when running SQL, you can see the error log through the following channels
+
+
+Terminal>output>free sqlite
+
+
+![output](https://github.com/fjb040911/free-sqlite/blob/main/doc/oupput.png?raw=true)
 
 ### Favorite
 Quickly execute or view your frequently used SQL
+
+
 ![favorite](https://github.com/fjb040911/free-sqlite/blob/main/doc/favoites.gif?raw=true)
 
 ### Export

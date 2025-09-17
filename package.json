@@ -3,7 +3,12 @@
   "displayName": "free sqlite",
   "description": "Free SQLite for VSCode",
   "icon": "assets/logo.png",
-  "version": "0.6.17",
+  "version": "0.6.18",
+  "homepage": "https://callfeel.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fjb040911/free-sqlite"
+  },
   "engines": {
     "vscode": "^1.91.0"
   },

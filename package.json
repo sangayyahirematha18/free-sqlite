@@ -19,6 +19,14 @@
     "Programming Languages",
     "Formatters"
   ],
+  "tags": [
+    "sqlite",
+    "sqlite3",
+    "sql",
+    "database",
+    "export",
+    "view"
+  ],
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {

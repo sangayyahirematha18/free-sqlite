@@ -7,7 +7,8 @@ open-source and free.
  - 📃 Open any SQLite file - Simply click on .sqlite or .db files to open them instantly
  - 🛡 Table Explorer - Browse all tables in your database from an integrated sidebar
  - 🌈 Data Visualization - View table data in a clean, modern interface that adapts to your VS Code theme
- - 🖥 SQL statement editor - SQL statement editor, Automatically complete SQL keywords, table names, and fields
+ - 🖥 SQL automatically complete - SQL statement editor, Automatically complete SQL keywords, table names, and fields
+ - ❌ SQL error info - Execute query error information output display
  - 📦 Query result export - The query results can be exported as Excel or CSV
  - ❤️ Favorites - Collect some of your most commonly used SQL statements
 

@@ -1,9 +1,9 @@
 {
   "name": "free-sqlite",
   "displayName": "free sqlite",
-  "description": "Free SQLite for VSCode",
+  "description": "SQLite tools for VSCode",
   "icon": "assets/logo.png",
-  "version": "0.6.19",
+  "version": "0.6.20",
   "homepage": "https://callfeel.com",
   "repository": {
     "type": "git",
@@ -85,7 +85,8 @@
     "vsce-package": "npm run rm-map && vsce package",
     "rm-map": "find ui_dist -name '*.map' -delete",
     "rm-his": "rm -r -f .history",
-    "mac-package": "npm run rm-his && npm run rm-map && npm run vsce-package"
+    "rm-uidist": "cd ui_dist && rm -rf * && cd ..",
+    "mac-package": "npm run rm-uidist && npm run compile && npm run rm-his && npm run rm-map && npm run vsce-package"
   },
   "devDependencies": {
     "@types/mocha": "^10.0.10",

